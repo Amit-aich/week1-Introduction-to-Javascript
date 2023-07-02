@@ -32,9 +32,9 @@ let score = 10; // Number
 let result = "10"; //String
 
 //BEDMAS
-let finalScore = score+ result; //Concatenating
-let penalty = score - result; //Mathematical
-let totalGames = '5';
+// let finalScore = score+ result; //Concatenating
+// let penalty = score - result; //Mathematical
+// let totalGames = '5';
 // let avgScore = finalScore/ totalGames;
 
 // console.log(score, result);
@@ -46,6 +46,8 @@ let totalGames = '5';
 // console.log(typeof(penalty));
 // console.log(typeof(avgScore));
 
-let value = (finalScore**2)*10/(penalty + totalGames);
-console.log(value)
-console.log(typeof(value))
+// let value = (finalScore**2)*10/(penalty + totalGames);
+// console.log(value)
+// console.log(typeof(value))
+
+
